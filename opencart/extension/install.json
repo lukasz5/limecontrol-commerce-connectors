@@ -1,0 +1,8 @@
+{
+  "name": "LimeControl Feedback",
+  "description": "Signed post-purchase and product feedback for LimeSurvey",
+  "code": "limecontrol_feedback",
+  "version": "0.1.0",
+  "author": "LimeControl",
+  "link": "https://limecontrol.eu"
+}

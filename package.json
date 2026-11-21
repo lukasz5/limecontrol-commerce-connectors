@@ -1,0 +1,8 @@
+{
+  "name": "limecontrol-commerce-connectors",
+  "private": true,
+  "scripts": {
+    "test:commerce": "php opencart/tests/orders.php && php shoper/tests/test.php && python3 shopify/tests/run.py",
+    "build": "php build.php dist"
+  }
+}
